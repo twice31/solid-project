@@ -1,0 +1,11 @@
+﻿.container {
+  overflow: auto;
+  padding: 1.5rem;
+  background-color: #f4f6f4;
+  color: #415842;
+}
+
+.container h1 {
+  margin: 0;
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+}

@@ -1,0 +1,25 @@
+﻿.container {
+  background-color: #b7c9cc;
+  padding: 1rem;
+}
+
+.menuButtonsGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.menuButton {
+  background-color: #ffffff;
+  color: #415842;
+  border-radius: 0.375rem;
+  border: 1px solid #415842;
+  padding: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.menuButton:hover {
+  background-color: #415842;
+  color: #ffffff;
+}

@@ -1,0 +1,18 @@
+﻿*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --accent-color-1: #415842;
+  --accent-color-2: #7c763c;
+  --accent-color-3: #b7c9cc;
+  --accent-color-4: #728f28;
+  --accent-color-5: #b875b6;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}

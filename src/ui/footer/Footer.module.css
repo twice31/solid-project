@@ -1,0 +1,24 @@
+﻿.container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem 1.5rem;
+  background-color: #415842;
+}
+
+.contactInfo {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 2rem;
+  color: #b7c9cc;
+  font-size: 0.875rem;
+}
+
+.contactGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.contactGroup p {
+  margin: 0;
+}
